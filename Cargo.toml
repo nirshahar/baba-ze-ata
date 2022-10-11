@@ -6,4 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+array-init = "2.0.1"
 bevy = "0.8.1"
+grid = "0.8.1"
+no-panic = "0.1.15"
